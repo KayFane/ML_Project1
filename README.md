@@ -13,3 +13,10 @@
 
 * My code sometimes confuses me, so any comments are welcome (especially about coding convention) 
 
+Questions: 
+
+1. Do we need more data?
+
+2. How to handle incorrect data?
+
+
